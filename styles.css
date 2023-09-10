@@ -30,7 +30,7 @@
 .sobre,
 .prod
  {
-    background-color: rgb(179, 248, 179);
+    background-color: rgb(207, 252, 207);
     text-align: center;
     border: 2px solid #000000;
     width: 500px;
@@ -43,7 +43,7 @@
 
 .mapa,
 .contato {
-    background-color: rgb(179, 248, 179);
+    background-color: rgb(207, 252, 207);
     text-align: center;
     border: 2px solid #000000;
     width: 500px;
@@ -54,7 +54,7 @@
 }
 .form,
 .sust{
-    background-color: rgb(179, 248, 179);
+    background-color: rgb(207, 252, 207);
     text-align: center;
     border: 2px solid #000000;
     width: 500px;
@@ -65,7 +65,7 @@
 
 .catalogo {
     text-align: center;
-    background-color: rgb(179, 248, 179);
+    background-color: rgb(207, 252, 207);
     border: 2px solid black;
     font-size: 100px;
     padding: 10px
@@ -91,7 +91,7 @@
 .abb,
 .sch,
 .weg {
-    background-color: rgb(179, 248, 179);
+    background-color: rgb(207, 252, 207);
     border: 2px solid #000000;
     width: 400px;
     padding: 12px;
@@ -100,7 +100,7 @@
     text-align: center;
 }
 .footer{    
-    background-color: rgb(179, 248, 179);
+    background-color: rgb(207, 252, 207);
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
